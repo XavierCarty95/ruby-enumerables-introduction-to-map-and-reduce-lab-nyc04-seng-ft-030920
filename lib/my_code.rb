@@ -36,7 +36,8 @@ end
 
 
 def map_to_square(array)
-
+  new_array = []
+  i = 0
 
  while i < array[i].length
   total = array[i] ** 2
