@@ -48,7 +48,7 @@ end
 new_array
 
 end
-[1,2,3]
+
 
 
 
