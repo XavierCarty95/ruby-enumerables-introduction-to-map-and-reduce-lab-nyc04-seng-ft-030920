@@ -50,7 +50,7 @@ new_array
 end
 [1,2,3]
 
-def reduce_to_total(source_array)
+def reduce_to_total(source_array,starting_point = 0 )
   new_array = []
   i = 0
   total = 0
