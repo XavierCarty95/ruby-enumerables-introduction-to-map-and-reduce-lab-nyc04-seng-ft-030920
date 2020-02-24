@@ -49,4 +49,4 @@ new_array
 
 end
 
-print def map_to_square([1,2,3])
+print  map_to_square([1,2,3])
