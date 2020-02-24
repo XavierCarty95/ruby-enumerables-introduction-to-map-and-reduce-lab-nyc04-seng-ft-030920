@@ -33,3 +33,14 @@ def map_to_double(array)
   end
   new_array
 end
+
+
+def map_to_square(array)
+  total = array[i] ** 2
+  new_array << total
+
+  i += 1
+end
+new_array
+
+end
