@@ -49,4 +49,4 @@ new_array
 
 end
 
-print  map_to_square([1,2,3])
+reduce_to_total(source_array , starting_point)
