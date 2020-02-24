@@ -39,7 +39,7 @@ def map_to_square(array)
   new_array = []
   i = 0
 
- while i < array[i].length
+ while i < array.length
   total = array[i] ** 2
   new_array << total
 
